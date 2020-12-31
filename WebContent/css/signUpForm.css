@@ -1,0 +1,69 @@
+/* 태그 속성  */
+    html, body {height: 100%;}
+	small, sub{color:#AFA8A8;}
+	*{padding:0; margrin:0;}	
+	
+/*중앙 */
+	article{margin:10px auto;  box-sizing:border-box;}
+	main{box-sizing:border-box; margin:auto;}
+	section{margin:0 auto 20px auto; box-sizing:border-box; padding:0 50px;}
+	/* footer */	
+	#footer {
+		text-align: center;
+	}
+	.footer_text {
+		font-family: "맑은 고딕";
+		font-size: 12px;
+		color: #969696;
+	}
+	
+	
+
+	#etc1{
+		position: relative;
+		float: left;
+		font-size: 11px;
+		color: #AFA8A8;
+	}
+	#etc2{
+		position: relative;
+		float: left;
+		font-size: 24px;
+	}
+	#img{
+		diplay: inline;
+		text-align: center;
+	}
+	#img1{
+		width: 169px;
+		height: 157px;
+		
+	}
+	#img2{
+		width: 249px;
+		height: 140px;
+		align: center;
+	}
+	
+	table{
+		font-size: 24px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	
+	.input{
+		width: 377px;
+		height: 50px;
+	}
+	#inputbtn{
+		width: 144px;
+		height: 54px;
+		color: white;
+		background: #7B7575;
+	}
+	#signbtn{
+		width: 534px;
+		height: 62px;
+		color: white;
+		background: black;
+	}
